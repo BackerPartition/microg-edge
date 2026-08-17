@@ -32,4 +32,4 @@ Homepage: https://microg-edge.softnation.xyz
 - ✅ **User-Friendly Interface:** Simple setup process with guided step-by-step instructions.
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
